@@ -1,9 +1,13 @@
 const messages = [
-    "Tengo algo que decirte...",
-    "Me encanta verte reir 😌",
-    "Eres una persona muy especial ✨",
-    "Y la verdad...",
-    "Me gustas muchísimo 💖"
+    "Vi tus ojos y dije: Wow!",
+    "Tiene pupilas",
+    "Y luego vi tus pupilas y dije: Wow!",
+    "Tienen hormonas",
+    "Así que yo se que piensas",
+    "Y cuando piensas imaginas",
+    "Y cuando imaginas sueñas",
+    "Y cuando sueñas...",
+    "Yo se que lo haces conmigo",
 ];
 
 let index = 0;
